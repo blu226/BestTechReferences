@@ -232,3 +232,10 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+===Suggestions By Brian Luciano=========================
+Below are some resources that can help brush up on or learn new Java skills.
+
+teamtreehouse.com/Learn/Java
+learnjavaonline.org
+udemy.com/java-tutorial
